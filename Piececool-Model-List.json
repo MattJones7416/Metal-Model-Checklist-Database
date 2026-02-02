@@ -1,6 +1,7 @@
 [
     {
         "checked": false,
+        "type": "Piececool"
         "name": "C-3PO",
         "number": "IP035-GS",
         "category": "Star Wars™",
