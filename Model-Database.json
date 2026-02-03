@@ -9301,5 +9301,20 @@
         "360View": "https://www.metalearth.com/360/PS2027",
         "description": "“Fat Albert” is the Blue Angels’ iconic support aircraft, a specially modified Lockheed C-130 Hercules®. Fat Albert is a crucial part of the Blue Angels' operation, transporting equipment, spares, and personnel between air shows. Built for rugged versatility, the C-130® is capable of operating from rough, unprepared airstrips. The C-130® is the longest continuously produced military aircraft, having achieved 70 years of production in 2024.",
         "productimage": "https://www.metalearth.com/content/images/thumbs/0005778_blue-angels-c-130-hercules_570.png"
-    }
+    },
+    {
+        "number": "IP035-GS",
+        "name": "C-3PO",
+        "difficulty": 4,
+        "sheets": 2.5,
+        "link": "http://piececool.com/showinfo-54-340-0.html",
+        "checked": false,
+        "type": "Piececool",
+        "status": "",
+        "category": "Star Wars™",
+        "instructionsLink": "http://piececool.com/cpshuoming/IP035.pdf?v=1770027602",
+        "360View": "",
+        "description": "",
+        "productimage": "http://piececool.com/d/file/IPxilie/2020-07-31/2daabfa1307f846ccc70d8b02ef9f980.jpg"
+    }       
 ]
