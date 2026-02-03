@@ -9304,7 +9304,7 @@
     },
     {
         "number": "IP035-GS",
-        "name": "C-3PO",
+        "name": "C-3PO™",
         "difficulty": 4,
         "sheets": 2.5,
         "link": "http://piececool.com/showinfo-54-340-0.html",
@@ -9319,7 +9319,7 @@
     },
     {
         "number": "IP032-AB",
-        "name": "Imperial Star Destroyer",
+        "name": "Imperial Star Destroyer™",
         "difficulty": 5,
         "sheets": 3,
         "link": "https://piececool.com/showinfo-54-297-0.html",
@@ -9334,7 +9334,7 @@
     },
     {
         "number": "IP036-KS",
-        "name": "K-2SO",
+        "name": "K-2SO™",
         "difficulty": 5,
         "sheets": 2.5,
         "link": "https://piececool.com/showinfo-54-339-0.html",
@@ -9346,5 +9346,65 @@
         "360View": "",
         "description": "",
         "productimage": "https://piececool.com/d/file/IPxilie/2020-07-31/7d2f59a762488e2ce0e084b45748f27c.jpg"
+    },
+    {
+        "number": "IP033-ABK",
+        "name": "Millennium Falcon™",
+        "difficulty": 2,
+        "sheets": 2.5,
+        "link": "https://piececool.com/showinfo-54-298-0.html",
+        "checked": false,
+        "type": "Piececool",
+        "status": "",
+        "category": "Star Wars™",
+        "instructionsLink": "https://piececool.com/cpshuoming/IP033.pdf?v=1770132860",
+        "360View": "",
+        "description": "",
+        "productimage": "https://piececool.com/d/file/IPxilie/2020-04-27/2fd259c7fa843529b6892343cc2bf85d.jpg"
+    },
+    {
+        "number": "IP031-AKB",
+        "name": "R2-D2™",
+        "difficulty": 4,
+        "sheets": 2.75,
+        "link": "https://piececool.com/showinfo-54-341-0.html",
+        "checked": false,
+        "type": "Piececool",
+        "status": "",
+        "category": "Star Wars™",
+        "instructionsLink": "https://piececool.com/cpshuoming/IP031.pdf?v=1770132956",
+        "360View": "",
+        "description": "",
+        "productimage": "https://piececool.com/d/file/IPxilie/2020-07-31/b61f0d7ade770fdec98f666b06bd2be8.jpg"
+    },
+    {
+        "number": "IP034-ARG",
+        "name": "X-Wing Starfighter™",
+        "difficulty": 4,
+        "sheets": 2.5,
+        "link": "https://piececool.com/showinfo-54-299-0.html",
+        "checked": false,
+        "type": "Piececool",
+        "status": "",
+        "category": "Star Wars™",
+        "instructionsLink": "https://piececool.com/cpshuoming/IP034.pdf?v=1770133050",
+        "360View": "",
+        "description": "",
+        "productimage": "https://piececool.com/d/file/IPxilie/2020-04-27/8483c9c75b4c4b4f7341cfa8c3be43d0.jpg"
+    },
+    {
+        "number": "YM-N040",
+        "name": "T5 Movable Optimus Prime™",
+        "difficulty": null,
+        "sheets": 8,
+        "link": "http://www.mumodel.com/#/GoodsDetail/1076701",
+        "checked": false,
+        "type": "MU",
+        "status": "",
+        "category": "Transformers™",
+        "instructionsLink": "",
+        "360View": "",
+        "description": "",
+        "productimage": "https://mumodel.oss-cn-shanghai.aliyuncs.com/public/admin/temp/1632723627118.jpg"
     } 
 ]
