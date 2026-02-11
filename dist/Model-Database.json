@@ -2907,6 +2907,21 @@
     },
     {
         "checked": false,
+        "name": "1967 Chevy Impala",
+        "number": "ME1048",
+        "difficulty": null,
+        "sheets": 3.5,
+        "link": "https://www.metalearth.com/coming-soon/1967-chevy-impala",
+        "category": "Vehicles",
+        "type": "Metal Earth",
+        "status": "Coming Soon",
+        "instructionsLink": "",
+        "360View": "",
+        "description": "The 1967 Chevrolet Impala is an iconic American classic. Powered by a mighty V8 engine, it delivers thrilling performance and a signature roar. Its sleek design, chrome accents, and spacious interior exude timeless style. Immortalized as 'Baby' in Supernatural, this muscle car is a cultural icon and a collector’s dream. Own a piece of history that embodies power, nostalgia, and pure Americana.",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005811_1967-chevy-impala_570.png"
+    },
+    {
+        "checked": false,
         "name": "Fairchild F-27",
         "number": "ME1049",
         "difficulty": null,
@@ -2934,6 +2949,36 @@
         "360View": "https://www.metalearth.com/360/ME1050",
         "description": "Santas Sleigh! This model is also an ornament - perfect for hanging on your Christmas tree!",
         "productimage": "https://www.metalearth.com/content/images/thumbs/0005712_christmas-sleigh_570.png"
+    },
+    {
+        "checked": false,
+        "name": "Red Rose",
+        "number": "ME1057",
+        "difficulty": null,
+        "sheets": 2.25,
+        "link": "https://www.metalearth.com/coming-soon/red-rose",
+        "category": "Wildlife",
+        "type": "Metal Earth",
+        "status": "Coming Soon",
+        "instructionsLink": "",
+        "360View": "",
+        "description": "What’s in a name? That which we call a rose. By any other name would smell as sweet. (William Shakespeare)",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005817_red-rose_570.png"
+    },
+    {
+        "checked": false,
+        "name": "Classical Guitar",
+        "number": "ME1058",
+        "difficulty": null,
+        "sheets": 1.5,
+        "link": "https://www.metalearth.com/coming-soon/classical-guitar",
+        "category": "Musical",
+        "type": "Metal Earth",
+        "status": "Coming Soon",
+        "instructionsLink": "",
+        "360View": "",
+        "description": "The Classical Guitar is one of the most popular string instruments around the world, known for its warm, balanced tone and timeless elegant wooden body. Descended from the Baroque guitar, it evolved in Spain in the late 18th century, adopting a larger body and nylon strings that produce a soft, expressive sound.",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005823_classical-guitar_570.png"
     },
     {
         "checked": false,
