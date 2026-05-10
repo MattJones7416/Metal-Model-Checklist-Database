@@ -32,6 +32,7 @@ const FALLBACK_DEFAULTS = {
   difficulty: null,
   sheets: null,
   status: '',
+  releaseDate: '',
   instructionsLink: '',
   '360View': '',
   description: '',
@@ -95,7 +96,7 @@ function walkDir(dir, files = []) {
 /** Canonical key order for normalized JSON output. */
 const CANONICAL_KEYS = [
   'checked', 'name', 'number', 'difficulty', 'sheets', 'link', 'category', 'type', 'status',
-  'instructionsLink', '360View', 'description', 'productimage'
+  'releaseDate', 'instructionsLink', '360View', 'description', 'productimage'
 ];
 
 module.exports = {

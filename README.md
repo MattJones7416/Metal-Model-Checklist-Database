@@ -33,6 +33,7 @@ New Entries MUST follow this format:
         "checked": false,
         "type": "Premium Series",
         "status": "",
+        "releaseDate": "2025-08-01",
         "category": "Lockheed Martin®",
         "instructionsLink": "",
         "360View": "https://www.metalearth.com/360/PS2027",
@@ -48,6 +49,7 @@ New Entries MUST follow this format:
 **Checked** - (LEAVE THIS AS "checked": false,)  
 **Type** - Can be either: "Metal Earth" / "ICONX" / "Legends" / "Mega" / "Premium Series" / "MU" / "Piececool"  
 **Status** - Can be either "" (Blank) / "Coming Soon" / "Exclusive" / "Retired"  
+**Release Date** - Model release date in `yyyy`, `yyyy-MM`, or `yyyy-MM-dd` format. Use exact dates where known; otherwise use the best estimate, usually month-level, based on official newest lists and rough model-number order.  
 **Category** - "Model Category"  
 **Instructions Link** - "Link to Instructions PDF File"  
 **360View** - "Link to Model 360 View" _(Leave blank for MU and Piececool "")_  
@@ -122,4 +124,3 @@ Run from the repo root with `npm run <script>` (or `node scripts/<script>.js` fo
 - `--paths-only` — Only fix folder and filename; do not add or normalize schema fields.
 - `--schema-only` — Only add missing fields and canonical key order; do not move or rename files.
 - Optional file paths — e.g. `node scripts/fix-src.js src/metal-earth/foo.json` to fix only those files under `src/`.
-

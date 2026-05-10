@@ -65,6 +65,12 @@ function lintEntry(entry, prefix, settings) {
     }
   }
 
+  if (entry.releaseDate !== undefined && entry.releaseDate !== null && entry.releaseDate !== '') {
+    if (typeof entry.releaseDate !== 'string' || !/^\d{4}(-\d{2}){0,2}$/.test(entry.releaseDate)) {
+      errors.push(`${prefix} "releaseDate" must be blank or a string in yyyy, yyyy-MM, or yyyy-MM-dd format. Got: ${JSON.stringify(entry.releaseDate)}`);
+    }
+  }
+
   return errors;
 }
 
