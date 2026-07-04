@@ -28383,6 +28383,22 @@
     },
     {
         "checked": false,
+        "name": "Fortune Lobster",
+        "number": "P393",
+        "difficulty": 3,
+        "sheets": 3.125,
+        "link": "https://www.piececool.com/wap/showinfo-7-663-0.html",
+        "category": "Uncategorized",
+        "type": "Piececool",
+        "status": "",
+        "releaseDate": "",
+        "instructionsLink": "",
+        "360View": "",
+        "description": "",
+        "productimage": "https://www.piececool.com/d/file/Pxilie/2024-12-31/831f52acb8607d60c9af88da856eb3c0.jpg"
+    },
+    {
+        "checked": false,
         "name": "Crabapple Goldfish",
         "number": "P439-GP",
         "difficulty": 3,
