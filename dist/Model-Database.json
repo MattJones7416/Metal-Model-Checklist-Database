@@ -6763,6 +6763,22 @@
     },
     {
         "checked": false,
+        "name": "F-117® Nighthawk®",
+        "number": "ME1060",
+        "difficulty": null,
+        "sheets": 3,
+        "link": "https://www.metalearth.com/lockheed-martin/f117-nighthawk",
+        "category": "Lockheed Martin®",
+        "type": "Metal Earth",
+        "status": "",
+        "releaseDate": "2026-10-05",
+        "instructionsLink": "https://www.metalearth.com/download/sample/595",
+        "360View": "https://www.metalearth.com/360/ME1060",
+        "description": "",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005908_f-117-nighthawk_285.png"
+    },
+    {
+        "checked": false,
         "name": "Nutcracker",
         "number": "ME1062",
         "difficulty": null,
