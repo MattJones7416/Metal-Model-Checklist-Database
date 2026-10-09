@@ -6731,6 +6731,22 @@
     },
     {
         "checked": false,
+        "name": "A-10 Warthog®",
+        "number": "ME1055",
+        "difficulty": null,
+        "sheets": 3.5,
+        "link": "https://www.metalearth.com/coming-soon/a10-warthog",
+        "category": "Northrop Grumman",
+        "type": "Metal Earth",
+        "status": "Coming Soon",
+        "releaseDate": "",
+        "instructionsLink": "",
+        "360View": "https://www.metalearth.com/360/ME1055",
+        "description": "",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005914_a-10-warthog_570.png"
+    },
+    {
+        "checked": false,
         "name": "Red Rose",
         "number": "ME1057",
         "difficulty": null,
