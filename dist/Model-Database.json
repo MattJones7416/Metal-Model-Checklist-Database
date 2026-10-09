@@ -29565,6 +29565,22 @@
     },
     {
         "checked": false,
+        "name": "B-2A™ Spirit",
+        "number": "PS2029",
+        "difficulty": null,
+        "sheets": 2,
+        "link": "https://www.metalearth.com/northrop-grumman/b2a-spirit",
+        "category": "Northrop Grumman",
+        "type": "Premium Series",
+        "status": "Coming Soon",
+        "releaseDate": "",
+        "instructionsLink": "",
+        "360View": "https://www.metalearth.com/360/PS2029",
+        "description": "",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005928_b-2a-spirit_570.png"
+    },
+    {
+        "checked": false,
         "name": "Wright Flyer",
         "number": "B16001",
         "difficulty": null,
