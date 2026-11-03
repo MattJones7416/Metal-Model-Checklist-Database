@@ -6795,6 +6795,22 @@
     },
     {
         "checked": false,
+        "name": "Violin",
+        "number": "ME1061",
+        "difficulty": null,
+        "sheets": 1.5,
+        "link": "https://www.metalearth.com/coming-soon/violin",
+        "category": "Musical",
+        "type": "Metal Earth",
+        "status": "Coming Soon",
+        "releaseDate": "",
+        "instructionsLink": "",
+        "360View": "https://www.metalearth.com/360/ME1061",
+        "description": "",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005938_violin_570.png"
+    },
+    {
+        "checked": false,
         "name": "Nutcracker",
         "number": "ME1062",
         "difficulty": null,
