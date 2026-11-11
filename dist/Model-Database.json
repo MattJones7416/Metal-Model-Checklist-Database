@@ -6779,6 +6779,22 @@
     },
     {
         "checked": false,
+        "name": "Volkswagen Beetle",
+        "number": "ME1059",
+        "difficulty": 6,
+        "sheets": 3,
+        "link": "https://www.metalearth.com/vehicles/volkswagen-beetle",
+        "category": "Vehicles",
+        "type": "Metal Earth",
+        "status": "",
+        "releaseDate": "2026-11-10",
+        "instructionsLink": "https://www.metalearth.com/download/sample/599",
+        "360View": "https://www.metalearth.com/360/ME1059",
+        "description": "",
+        "productimage": "https://www.metalearth.com/content/images/thumbs/0005944_volkswagen-beetle_570.png"
+    },
+    {
+        "checked": false,
         "name": "F-117® Nighthawk®",
         "number": "ME1060",
         "difficulty": null,
