@@ -17,6 +17,7 @@ function walkDir(dir, files = []) {
   }
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   for (const e of entries) {
+    if (e.name.startsWith('._') || e.name === '.DS_Store') continue;
     const full = path.join(dir, e.name);
     if (e.isDirectory()) {
       walkDir(full, files);

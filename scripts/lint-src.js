@@ -122,7 +122,8 @@ function lintOneFile(filePath) {
   }
 
   const expectedBasename = slug(entry.category) + '-' + slug(entry.number) + '-' + slug(entry.name) + '.json';
-  if (basename !== expectedBasename) {
+  // macOS external volumes may expose an equivalent decomposed Unicode filename.
+  if (basename.normalize('NFC') !== expectedBasename.normalize('NFC')) {
     errors.push(`${relativePath}: Filename must be {category}-{number}-{name}.json (lowercase, spaces as dashes). Expected: ${expectedBasename}. Got: ${basename}.`);
   }
 
